@@ -1,3 +1,13 @@
+Demonstrate the ability to use Git commands to retrieve the previous state of the application.
+![image](https://github.com/user-attachments/assets/632a8458-591b-41ed-ab96-40938a184f55)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
